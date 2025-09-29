@@ -1,0 +1,6 @@
+num1 = int(input('Digite o primeiro número:'))
+num2 = int(input('Digite o segundo número:'))
+print ('soma:', num1 + num2)
+print ('subtração:', num1 - num2)
+print ('multiplicacção: ', num1 * num2)
+print ('divisão: ', num1 / num2)
